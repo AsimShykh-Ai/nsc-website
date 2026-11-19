@@ -25,8 +25,7 @@ export function allPages() { return rows; }
 
 // Edit these three lines with your real details before going live.
 const SETTINGS: Record<string, string> = {
-  contact_email: 'hello@example.com',   // PLACEHOLDER: replace with your real business email
-  contact_phone: '',                    // optional
+  contact_email: 'neoaivers95@gmail.com',  contact_phone: '',                    // optional
   social_linkedin: '', social_x: '', social_youtube: '',
 };
 export function getSetting(key: string, fallback = '') { return SETTINGS[key] ?? fallback; }
