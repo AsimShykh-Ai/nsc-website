@@ -1,0 +1,390 @@
+{
+ "SOL": [
+  {
+   "name": "AI Business Automation",
+   "short": "AI Business Automation",
+   "color": "#7AA2FF",
+   "desc": "Replace manual, repetitive operations with intelligent workflows that run on their own and hand off to your team only when judgment is needed.",
+   "caps": [
+    "End-to-end business process automation",
+    "Intelligent workflow development",
+    "Automated administrative operations",
+    "CRM automation and integrations",
+    "Lead generation and lead management",
+    "Automated customer follow-ups",
+    "AI-powered operational systems"
+   ]
+  },
+  {
+   "name": "AI Social Media Automation",
+   "short": "Social Media Automation",
+   "color": "#B79CFF",
+   "desc": "Keep every channel active and on-brand with AI that plans, creates and publishes content, so marketing stops depending on someone finding the time.",
+   "caps": [
+    "AI-powered social media management",
+    "Automated content planning and publishing",
+    "AI-generated graphics, captions and copy",
+    "CGI promotional video creation",
+    "AI-generated advertising creatives",
+    "Multi-platform content automation"
+   ]
+  },
+  {
+   "name": "Custom AI Chatbots and Agents",
+   "short": "Chatbots and Agents",
+   "color": "#5FE3F5",
+   "desc": "Give every visitor an instant, knowledgeable answer at any hour, and let agents qualify leads and support customers while your team focuses on the work only people can do.",
+   "caps": [
+    "Intelligent website chatbots",
+    "AI customer service representatives",
+    "AI-powered sales assistants",
+    "Lead qualification agents",
+    "Custom-trained knowledge-base chatbots",
+    "Conversational AI integrations",
+    "24/7 automated customer engagement"
+   ]
+  },
+  {
+   "name": "AI-Powered Business Dashboards",
+   "short": "Business Dashboards",
+   "color": "#7AA2FF",
+   "desc": "One clear view of the whole business: performance, workflows and insight in real time, with reports that write themselves.",
+   "caps": [
+    "Centralized business management dashboards",
+    "AI-powered analytics",
+    "Real-time performance monitoring",
+    "Automated reporting",
+    "Intelligent business insights",
+    "Workflow monitoring",
+    "Custom business intelligence solutions"
+   ]
+  },
+  {
+   "name": "Artificial Intelligence and Machine Learning",
+   "short": "AI and Machine Learning",
+   "color": "#B79CFF",
+   "desc": "Practical AI consultancy and custom implementations that turn your data into forecasts, decisions and new capabilities.",
+   "caps": [
+    "AI consultancy",
+    "Custom AI implementations",
+    "Machine learning integrations",
+    "Predictive analytics",
+    "Generative AI solutions",
+    "Intelligent data processing",
+    "AI-powered decision-support systems"
+   ]
+  },
+  {
+   "name": "IoT and Smart Technology",
+   "short": "IoT and Smart Technology",
+   "color": "#5FE3F5",
+   "desc": "Connect the physical side of your business so equipment, spaces and sensors report, respond and feed the same intelligence as everything else.",
+   "caps": [
+    "IoT consulting",
+    "Connected business infrastructure",
+    "Smart device integrations",
+    "Intelligent monitoring systems",
+    "IoT-powered automation",
+    "Connected operational ecosystems"
+   ]
+  }
+ ],
+ "ECO": [
+  {
+   "name": "AI Business Automation",
+   "text": "Runs the repetitive core of the business: lead routing, follow-ups, CRM updates, scheduling and back-office tasks.",
+   "talks": [
+    "AI Agents",
+    "Dashboards",
+    "IoT Infrastructure"
+   ],
+   "example": "Example: when an agent qualifies a lead, automation creates the CRM record, books the call and sends the follow-up."
+  },
+  {
+   "name": "Social Media Intelligence",
+   "text": "Plans, creates and publishes content across platforms, then listens to engagement so the next piece is smarter than the last.",
+   "talks": [
+    "Machine Learning",
+    "Dashboards",
+    "AI Agents"
+   ],
+   "example": "Example: engagement patterns flow to machine learning, which shapes what the content engine produces next."
+  },
+  {
+   "name": "AI Agents",
+   "text": "Answer customers, qualify prospects and take action around the clock, then pass structured results to the rest of the system.",
+   "talks": [
+    "Automation",
+    "Dashboards",
+    "Machine Learning"
+   ],
+   "example": "Example: a chat on your website becomes a qualified lead, a scheduled meeting and a line on your dashboard."
+  },
+  {
+   "name": "Business Dashboards",
+   "text": "The command view. Every other system reports here, so you see operations, customers and performance in one place.",
+   "talks": [
+    "Automation",
+    "Social Intelligence",
+    "AI Agents",
+    "Machine Learning",
+    "IoT"
+   ],
+   "example": "Example: one screen shows leads, content performance, workflow health and equipment status together."
+  },
+  {
+   "name": "Machine Learning",
+   "text": "Learns from the data the other systems generate to forecast demand, score leads and flag anything unusual early.",
+   "talks": [
+    "Dashboards",
+    "Automation",
+    "IoT Infrastructure"
+   ],
+   "example": "Example: sensor and sales history combine to predict what you will need before you run short."
+  },
+  {
+   "name": "IoT Infrastructure",
+   "text": "Connects physical equipment, spaces and devices so the business can sense what is happening and respond automatically.",
+   "talks": [
+    "Machine Learning",
+    "Automation",
+    "Dashboards"
+   ],
+   "example": "Example: a monitored device raises a condition, automation dispatches a task, and the dashboard logs it."
+  }
+ ],
+ "IND": [
+  {
+   "name": "E-commerce",
+   "icon": "M3 4h2l2.4 11h10.2L20 8H6.2M9 20.2v.01M17 20.2v.01",
+   "lead": "Turn browsers into buyers and keep operations lean as order volume grows.",
+   "apps": [
+    [
+     "Automation",
+     "Abandoned-cart and post-purchase follow-ups that run without manual effort."
+    ],
+    [
+     "Agents",
+     "A product-aware shopping assistant that answers questions and guides visitors to the right item."
+    ],
+    [
+     "Machine learning",
+     "Demand forecasting to keep inventory balanced."
+    ]
+   ]
+  },
+  {
+   "name": "Real Estate",
+   "icon": "M3 11l9-8 9 8M5 10v10h14V10M10 20v-6h4v6",
+   "lead": "Respond to every inquiry instantly and keep each deal moving.",
+   "apps": [
+    [
+     "Agents",
+     "Instant lead qualification and showing scheduling, day or night."
+    ],
+    [
+     "Social",
+     "Listing content, captions and promotional video produced consistently."
+    ],
+    [
+     "Dashboards",
+     "A live pipeline view across listings, leads and follow-ups."
+    ]
+   ]
+  },
+  {
+   "name": "Healthcare businesses",
+   "icon": "M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zM12 8v8M8 12h8",
+   "lead": "Reduce administrative load so staff can spend more time with patients. We focus on non-clinical operations; compliance needs such as HIPAA are scoped together during discovery.",
+   "apps": [
+    [
+     "Automation",
+     "Appointment reminders, intake workflows and recall campaigns."
+    ],
+    [
+     "Agents",
+     "After-hours answers to common practice questions, with clear handoff to staff."
+    ],
+    [
+     "Dashboards",
+     "Operational visibility across scheduling, no-shows and capacity."
+    ]
+   ]
+  },
+  {
+   "name": "Professional services",
+   "icon": "M3 8h18v12H3zM9 8V5h6v3M3 13h18",
+   "lead": "Win back billable hours by systemizing the work around the work.",
+   "apps": [
+    [
+     "Automation",
+     "Client intake, document routing and status updates handled automatically."
+    ],
+    [
+     "Agents",
+     "A knowledge-base assistant trained on your firm's own materials."
+    ],
+    [
+     "Dashboards",
+     "Clear visibility into pipeline, utilization and deadlines."
+    ]
+   ]
+  },
+  {
+   "name": "Restaurants and hospitality",
+   "icon": "M4 20h16M5 17a7 7 0 0 1 14 0zM12 10V8M10.5 8h3",
+   "lead": "Keep guests engaged and the house running smoothly, even during the rush.",
+   "apps": [
+    [
+     "Agents",
+     "Reservation and inquiry handling across web and messaging."
+    ],
+    [
+     "Social",
+     "Menu, event and promotion content published on a steady rhythm."
+    ],
+    [
+     "IoT",
+     "Equipment and environment monitoring that alerts you before problems become closures."
+    ]
+   ]
+  },
+  {
+   "name": "Retail",
+   "icon": "M4 9l1.5-5h13L20 9M4 9h16v11H4zM10 20v-5h4v5",
+   "lead": "Connect the shop floor, the stockroom and the storefront.",
+   "apps": [
+    [
+     "Machine learning",
+     "Inventory and demand insight to reduce stock-outs and overstock."
+    ],
+    [
+     "Agents",
+     "Customer assistants for product questions and store information."
+    ],
+    [
+     "IoT",
+     "Smart sensors for stock levels, foot traffic and store conditions."
+    ]
+   ]
+  },
+  {
+   "name": "Marketing agencies",
+   "icon": "M3 11v3l12 5V6zM18 9a4 4 0 0 1 0 6M6 14l1 5h3l-1-4",
+   "lead": "Deliver more for every client without growing headcount at the same rate.",
+   "apps": [
+    [
+     "Social",
+     "Scale content production across many client accounts and platforms."
+    ],
+    [
+     "Automation",
+     "Client reporting that assembles itself on schedule."
+    ],
+    [
+     "Dashboards",
+     "A multi-client view of campaigns, deliverables and results."
+    ]
+   ]
+  },
+  {
+   "name": "Local service businesses",
+   "icon": "M14.7 6.3a4 4 0 0 0-5.4 5.1L3 17.7 6.3 21l6.3-6.3a4 4 0 0 0 5.1-5.4l-2.4 2.4-2.8-.7-.7-2.8z",
+   "lead": "Never lose a job to a missed call or a slow reply again.",
+   "apps": [
+    [
+     "Agents",
+     "Missed-call and web inquiries answered and turned into booked appointments."
+    ],
+    [
+     "Automation",
+     "Quote follow-ups and review requests sent at the right moment."
+    ],
+    [
+     "Dashboards",
+     "Clear visibility of jobs, schedules and revenue pipeline."
+    ]
+   ]
+  }
+ ],
+ "WHYS": [
+  [
+   "Tailored AI implementations",
+   "Built around your workflows and customers, never a one-size-fits-all template."
+  ],
+  [
+   "Practical, business-focused solutions",
+   "Every project is tied to a concrete outcome: time saved, leads kept, errors removed."
+  ],
+  [
+   "End-to-end automation",
+   "From the first trigger to the final report, with no gaps for work to fall through."
+  ],
+  [
+   "Scalable infrastructure",
+   "Start with one system and add others as you grow, on a foundation that holds."
+  ],
+  [
+   "Personalized AI consultancy",
+   "Plain-language guidance from people who learn your business before recommending anything."
+  ],
+  [
+   "Continuous optimization",
+   "We monitor, refine and extend your systems after launch, not just before it."
+  ],
+  [
+   "Integrated intelligent systems",
+   "Automation, agents, analytics and devices that share data instead of living in silos."
+  ]
+ ],
+ "STEPS": [
+  {
+   "name": "Discover",
+   "text": "Understand the business, its challenges, and automation opportunities.",
+   "items": [
+    "Walk through your daily operations and customer journey",
+    "Identify repetitive work and costly bottlenecks",
+    "Map the tools and data you already use"
+   ]
+  },
+  {
+   "name": "Strategize",
+   "text": "Develop a customized AI implementation strategy.",
+   "items": [
+    "Prioritize opportunities by impact and effort",
+    "Define the systems, integrations and success measures",
+    "Agree a clear roadmap before any build begins"
+   ]
+  },
+  {
+   "name": "Engineer",
+   "text": "Build, integrate, and deploy intelligent solutions.",
+   "items": [
+    "Build and connect the automations, agents and dashboards",
+    "Test against your real scenarios",
+    "Launch and train your team to use it"
+   ]
+  },
+  {
+   "name": "Optimize",
+   "text": "Monitor performance, improve workflows, and scale technology.",
+   "items": [
+    "Track how each system performs in daily use",
+    "Refine workflows as your business changes",
+    "Extend the ecosystem as new needs appear"
+   ]
+  }
+ ],
+ "HTML": {
+  "hero": "<div class=\"in\" style=\"animation-delay:.5s;flex:1 1 500px;min-width:0;display:flex;justify-content:center\">\n<div style=\"position:relative;width:100%;max-width:700px\">\n<div class=\"par1\"><div class=\"coretilt\"><div class=\"floaty\">\n<svg viewBox=\"0 0 700 700\" style=\"width:100%;height:auto;display:block;overflow:visible\" role=\"img\" aria-label=\"Abstract AI core: a glowing hexagonal center with a radar sweep, orbiting nodes and data streams\">\n<defs>\n<radialGradient id=\"hcore\" cx=\"50%\" cy=\"50%\" r=\"50%\"><stop offset=\"0\" stop-color=\"#F2FDFF\"/><stop offset=\".22\" stop-color=\"#3DDCFF\"/><stop offset=\".6\" stop-color=\"#4D7CFF\" stop-opacity=\".7\"/><stop offset=\"1\" stop-color=\"#4D7CFF\" stop-opacity=\"0\"/></radialGradient>\n<radialGradient id=\"hhalo\" cx=\"50%\" cy=\"50%\" r=\"50%\"><stop offset=\"0\" stop-color=\"#4D7CFF\" stop-opacity=\".42\"/><stop offset=\".55\" stop-color=\"#9B7BFF\" stop-opacity=\".12\"/><stop offset=\"1\" stop-color=\"#4D7CFF\" stop-opacity=\"0\"/></radialGradient>\n<linearGradient id=\"hedge\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#7AA2FF\"/><stop offset=\"1\" stop-color=\"#B79CFF\"/></linearGradient>\n<linearGradient id=\"hsweep\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"0\"><stop offset=\"0\" stop-color=\"#3DDCFF\" stop-opacity=\"0\"/><stop offset=\"1\" stop-color=\"#3DDCFF\" stop-opacity=\".42\"/></linearGradient>\n</defs>\n<circle cx=\"350\" cy=\"350\" r=\"345\" fill=\"url(#hhalo)\"/>\n<!-- ripples -->\n<circle class=\"ripple\" cx=\"350\" cy=\"350\" r=\"120\"/>\n<circle class=\"ripple\" cx=\"350\" cy=\"350\" r=\"120\" style=\"animation-delay:1.5s\"/>\n<circle class=\"ripple\" cx=\"350\" cy=\"350\" r=\"120\" style=\"animation-delay:3s\"/>\n<!-- rings -->\n<g class=\"sv-a\" fill=\"none\" stroke=\"rgba(124,160,255,.3)\" stroke-width=\"1\">\n<circle cx=\"350\" cy=\"350\" r=\"310\" stroke-dasharray=\"2 10\"/>\n<circle cx=\"350\" cy=\"350\" r=\"262\"/>\n</g>\n<g class=\"sv-b\" fill=\"none\" stroke=\"rgba(61,220,255,.42)\" stroke-width=\"1.2\">\n<ellipse cx=\"350\" cy=\"350\" rx=\"236\" ry=\"86\" transform=\"rotate(30 350 350)\"/>\n<ellipse cx=\"350\" cy=\"350\" rx=\"236\" ry=\"86\" transform=\"rotate(-30 350 350)\"/>\n<ellipse cx=\"350\" cy=\"350\" rx=\"236\" ry=\"86\" transform=\"rotate(90 350 350)\"/>\n</g>\n<!-- radar sweep -->\n<g class=\"sv-d\"><path d=\"M350 350L350 70A280 280 0 0 1 560 125Z\" fill=\"url(#hsweep)\"/><path d=\"M350 350L350 70\" stroke=\"#3DDCFF\" stroke-opacity=\".8\" stroke-width=\"1.2\"/></g>\n<!-- frame + streams -->\n<g fill=\"none\" stroke=\"rgba(183,156,255,.42)\" stroke-width=\"1\"><path d=\"M350 50L609.8 200L609.8 500L350 650L90.2 500L90.2 200Z\"/></g>\n<g fill=\"none\" stroke=\"rgba(124,160,255,.14)\"><path d=\"M350 50L90.2 500M350 50L609.8 500M90.2 200L609.8 200M90.2 500L609.8 500M90.2 200L350 650M609.8 200L350 650\"/></g>\n<g fill=\"none\" stroke=\"#3DDCFF\" stroke-width=\"1.5\" stroke-linecap=\"round\" class=\"stream\" opacity=\".85\">\n<path d=\"M350 50C350 130 350 190 350 250\"/><path d=\"M609.8 200C540 220 490 260 436.6 300\"/><path d=\"M609.8 500C540 480 490 440 436.6 400\"/><path d=\"M350 650C350 570 350 510 350 450\"/><path d=\"M90.2 500C160 480 210 440 263.4 400\"/><path d=\"M90.2 200C160 220 210 260 263.4 300\"/>\n</g>\n<!-- traveling packets -->\n<g fill=\"#CFF8FF\">\n<circle r=\"4\" opacity=\"0\"><animateMotion dur=\"2.6s\" repeatCount=\"indefinite\" path=\"M350 50C350 130 350 190 350 250\"/><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"2.6s\" repeatCount=\"indefinite\"/></circle>\n<circle r=\"4\" opacity=\"0\"><animateMotion dur=\"2.6s\" begin=\"-0.9s\" repeatCount=\"indefinite\" path=\"M609.8 200C540 220 490 260 436.6 300\"/><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"2.6s\" begin=\"-0.9s\" repeatCount=\"indefinite\"/></circle>\n<circle r=\"4\" opacity=\"0\"><animateMotion dur=\"2.6s\" begin=\"-1.7s\" repeatCount=\"indefinite\" path=\"M609.8 500C540 480 490 440 436.6 400\"/><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"2.6s\" begin=\"-1.7s\" repeatCount=\"indefinite\"/></circle>\n<circle r=\"4\" opacity=\"0\"><animateMotion dur=\"2.6s\" begin=\"-0.4s\" repeatCount=\"indefinite\" path=\"M350 650C350 570 350 510 350 450\"/><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"2.6s\" begin=\"-0.4s\" repeatCount=\"indefinite\"/></circle>\n<circle r=\"4\" opacity=\"0\"><animateMotion dur=\"2.6s\" begin=\"-1.3s\" repeatCount=\"indefinite\" path=\"M90.2 500C160 480 210 440 263.4 400\"/><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"2.6s\" begin=\"-1.3s\" repeatCount=\"indefinite\"/></circle>\n<circle r=\"4\" opacity=\"0\"><animateMotion dur=\"2.6s\" begin=\"-2.1s\" repeatCount=\"indefinite\" path=\"M90.2 200C160 220 210 260 263.4 300\"/><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"2.6s\" begin=\"-2.1s\" repeatCount=\"indefinite\"/></circle>\n</g>\n<!-- orbiting satellites -->\n<g>\n<circle r=\"6\" fill=\"#3DDCFF\" opacity=\"0\"><animateMotion dur=\"16s\" repeatCount=\"indefinite\" path=\"M350 135A215 215 0 0 1 350 565A215 215 0 0 1 350 135Z\"/><animate attributeName=\"opacity\" values=\"1;1\" dur=\"16s\" repeatCount=\"indefinite\"/></circle>\n<circle r=\"4\" fill=\"#B79CFF\" opacity=\"0\"><animateMotion dur=\"24s\" begin=\"-8s\" repeatCount=\"indefinite\" path=\"M350 88A262 262 0 0 0 350 612A262 262 0 0 0 350 88Z\"/><animate attributeName=\"opacity\" values=\"1;1\" dur=\"24s\" repeatCount=\"indefinite\"/></circle>\n<circle r=\"5\" fill=\"#7AA2FF\" opacity=\"0\"><animateMotion dur=\"11s\" begin=\"-3s\" repeatCount=\"indefinite\" path=\"M350 205A145 145 0 0 1 350 495A145 145 0 0 1 350 205Z\"/><animate attributeName=\"opacity\" values=\"1;1\" dur=\"11s\" repeatCount=\"indefinite\"/></circle>\n</g>\n<!-- outer nodes -->\n<g>\n<circle cx=\"350\" cy=\"50\" r=\"11\" fill=\"#05070D\" stroke=\"#7AA2FF\" stroke-width=\"1.8\"/><circle cx=\"350\" cy=\"50\" r=\"4.5\" fill=\"#7AA2FF\" class=\"pulse\"/>\n<circle cx=\"609.8\" cy=\"200\" r=\"11\" fill=\"#05070D\" stroke=\"#3DDCFF\" stroke-width=\"1.8\"/><circle cx=\"609.8\" cy=\"200\" r=\"4.5\" fill=\"#3DDCFF\" class=\"pulse\"/>\n<circle cx=\"609.8\" cy=\"500\" r=\"11\" fill=\"#05070D\" stroke=\"#B79CFF\" stroke-width=\"1.8\"/><circle cx=\"609.8\" cy=\"500\" r=\"4.5\" fill=\"#B79CFF\" class=\"pulse\"/>\n<circle cx=\"350\" cy=\"650\" r=\"11\" fill=\"#05070D\" stroke=\"#7AA2FF\" stroke-width=\"1.8\"/><circle cx=\"350\" cy=\"650\" r=\"4.5\" fill=\"#7AA2FF\" class=\"pulse\"/>\n<circle cx=\"90.2\" cy=\"500\" r=\"11\" fill=\"#05070D\" stroke=\"#3DDCFF\" stroke-width=\"1.8\"/><circle cx=\"90.2\" cy=\"500\" r=\"4.5\" fill=\"#3DDCFF\" class=\"pulse\"/>\n<circle cx=\"90.2\" cy=\"200\" r=\"11\" fill=\"#05070D\" stroke=\"#B79CFF\" stroke-width=\"1.8\"/><circle cx=\"90.2\" cy=\"200\" r=\"4.5\" fill=\"#B79CFF\" class=\"pulse\"/>\n</g>\n<!-- core -->\n<circle cx=\"350\" cy=\"350\" r=\"140\" fill=\"url(#hcore)\" opacity=\".6\"/>\n<g class=\"sv-c\" fill=\"none\" stroke=\"url(#hedge)\" stroke-width=\"1.8\"><polygon points=\"350,215 467,282.5 467,417.5 350,485 233,417.5 233,282.5\"/></g>\n<g class=\"sv-b\" fill=\"none\" stroke=\"rgba(61,220,255,.55)\" stroke-width=\"1.2\" stroke-dasharray=\"4 6\"><polygon points=\"350,248 438.5,299 438.5,401 350,452 261.5,401 261.5,299\"/></g>\n<polygon points=\"350,268 421,309 421,391 350,432 279,391 279,309\" fill=\"rgba(5,7,13,.7)\" stroke=\"rgba(61,220,255,.8)\" stroke-width=\"1.2\"/>\n<path d=\"M350 268V318M421 309L378 334M421 391L378 366M350 432V382M279 391L322 366M279 309L322 334\" stroke=\"rgba(61,220,255,.6)\" stroke-width=\"1\"/>\n<g fill=\"#CFF8FF\"><circle cx=\"350\" cy=\"268\" r=\"3\"/><circle cx=\"421\" cy=\"309\" r=\"3\"/><circle cx=\"421\" cy=\"391\" r=\"3\"/><circle cx=\"350\" cy=\"432\" r=\"3\"/><circle cx=\"279\" cy=\"391\" r=\"3\"/><circle cx=\"279\" cy=\"309\" r=\"3\"/></g>\n<circle cx=\"350\" cy=\"350\" r=\"32\" fill=\"url(#hcore)\" class=\"pulse\"/>\n<circle cx=\"350\" cy=\"350\" r=\"9\" fill=\"#fff\"/>\n</svg>\n</div></div></div>\n\n<!-- holographic interface cards -->\n<div class=\"par2\" style=\"position:absolute;left:-4%;top:13%\"><div class=\"floaty\" style=\"animation-delay:-2s\"><div class=\"holo\">\n<div style=\"display:flex;align-items:center;gap:10px\"><span class=\"dotp\"></span><span class=\"mono\" style=\"font-size:10px;color:#7FD8FF\">Agent online</span></div>\n<div style=\"margin-top:8px;font-size:14px;color:#E8ECF6;font-weight:500\">Answering visitors 24/7</div>\n</div></div></div>\n<div class=\"par3\" style=\"position:absolute;right:-6%;top:40%\"><div class=\"floaty\" style=\"animation-delay:-4s\"><div class=\"holo\">\n<div style=\"display:flex;align-items:center;gap:10px\"><span class=\"dotp\" style=\"animation-delay:.4s\"></span><span class=\"mono\" style=\"font-size:10px;color:#7FD8FF\">Workflow running</span></div>\n<div style=\"margin-top:8px;font-size:14px;color:#E8ECF6;font-weight:500\">Lead routed to CRM</div>\n<div class=\"bar\"><i></i></div>\n</div></div></div>\n<div class=\"par2\" style=\"position:absolute;left:4%;bottom:6%\"><div class=\"floaty\" style=\"animation-delay:-1s\"><div class=\"holo\">\n<div style=\"display:flex;align-items:center;gap:10px\"><span class=\"dotp\" style=\"animation-delay:.8s\"></span><span class=\"mono\" style=\"font-size:10px;color:#7FD8FF\">Insights syncing</span></div>\n<div class=\"eq\" aria-hidden=\"true\"><i style=\"animation-delay:0s\"></i><i style=\"animation-delay:.2s\"></i><i style=\"animation-delay:.45s\"></i><i style=\"animation-delay:.1s\"></i><i style=\"animation-delay:.6s\"></i><i style=\"animation-delay:.3s\"></i><i style=\"animation-delay:.75s\"></i></div>\n</div></div></div>\n</div>\n</div>\n",
+  "marquee": "<div class=\"mq mono\" aria-hidden=\"true\">\n<div class=\"mq-track\">\n<div class=\"mq-item\"><span>AI Business Automation</span><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\"><path d=\"M5 0L10 5L5 10L0 5Z\" fill=\"#3DDCFF\"/></svg><span>AI Social Media Automation</span><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\"><path d=\"M5 0L10 5L5 10L0 5Z\" fill=\"#7AA2FF\"/></svg><span>Custom AI Chatbots and Agents</span><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\"><path d=\"M5 0L10 5L5 10L0 5Z\" fill=\"#B79CFF\"/></svg><span>AI-Powered Dashboards</span><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\"><path d=\"M5 0L10 5L5 10L0 5Z\" fill=\"#3DDCFF\"/></svg><span>Artificial Intelligence and Machine Learning</span><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\"><path d=\"M5 0L10 5L5 10L0 5Z\" fill=\"#7AA2FF\"/></svg><span>IoT and Smart Technology</span><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\"><path d=\"M5 0L10 5L5 10L0 5Z\" fill=\"#B79CFF\"/></svg></div>\n<div class=\"mq-item\"><span>AI Business Automation</span><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\"><path d=\"M5 0L10 5L5 10L0 5Z\" fill=\"#3DDCFF\"/></svg><span>AI Social Media Automation</span><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\"><path d=\"M5 0L10 5L5 10L0 5Z\" fill=\"#7AA2FF\"/></svg><span>Custom AI Chatbots and Agents</span><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\"><path d=\"M5 0L10 5L5 10L0 5Z\" fill=\"#B79CFF\"/></svg><span>AI-Powered Dashboards</span><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\"><path d=\"M5 0L10 5L5 10L0 5Z\" fill=\"#3DDCFF\"/></svg><span>Artificial Intelligence and Machine Learning</span><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\"><path d=\"M5 0L10 5L5 10L0 5Z\" fill=\"#7AA2FF\"/></svg><span>IoT and Smart Technology</span><svg width=\"10\" height=\"10\" viewBox=\"0 0 10 10\"><path d=\"M5 0L10 5L5 10L0 5Z\" fill=\"#B79CFF\"/></svg></div>\n</div>\n</div>",
+  "solSvgs": [
+   "<svg viewBox=\"0 0 400 280\" style=\"width:100%;height:100%\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" role=\"img\" aria-label=\"Workflow chain of steps connected by arrows with a feedback loop\">\n<rect x=\"24\" y=\"116\" width=\"86\" height=\"52\" rx=\"12\"/><rect x=\"157\" y=\"116\" width=\"86\" height=\"52\" rx=\"12\" fill=\"rgba(77,124,255,.15)\"/><rect x=\"290\" y=\"116\" width=\"86\" height=\"52\" rx=\"12\"/>\n<path d=\"M110 142H157M243 142H290\" class=\"stream\"/><path d=\"M148 135l9 7-9 7M281 135l9 7-9 7\"/>\n<path d=\"M333 116V64Q333 44 313 44H87Q67 44 67 64V116\" stroke-dasharray=\"5 7\" class=\"stream\"/>\n<circle cx=\"200\" cy=\"226\" r=\"5\" class=\"pulse\"/><circle cx=\"67\" cy=\"226\" r=\"5\" class=\"pulse\"/><circle cx=\"333\" cy=\"226\" r=\"5\" class=\"pulse\"/><path d=\"M67 168v53M200 168v53M333 168v53\" stroke-opacity=\".4\"/>\n</svg>",
+   "<svg viewBox=\"0 0 400 280\" style=\"width:100%;height:100%\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" role=\"img\" aria-label=\"Content tiles broadcasting outward in concentric waves\">\n<rect x=\"40\" y=\"70\" width=\"68\" height=\"68\" rx=\"12\"/><rect x=\"120\" y=\"70\" width=\"68\" height=\"68\" rx=\"12\" fill=\"rgba(155,123,255,.18)\"/><rect x=\"40\" y=\"150\" width=\"68\" height=\"68\" rx=\"12\" fill=\"rgba(155,123,255,.18)\"/><rect x=\"120\" y=\"150\" width=\"68\" height=\"68\" rx=\"12\"/>\n<circle cx=\"310\" cy=\"140\" r=\"14\" fill=\"currentColor\" stroke=\"none\" class=\"pulse\"/>\n<circle cx=\"310\" cy=\"140\" r=\"38\" stroke-opacity=\".7\"/><circle cx=\"310\" cy=\"140\" r=\"66\" stroke-opacity=\".45\" stroke-dasharray=\"4 6\" class=\"stream\"/><circle cx=\"310\" cy=\"140\" r=\"94\" stroke-opacity=\".25\"/>\n<path d=\"M188 140H282\" stroke-dasharray=\"3 6\" class=\"stream\"/>\n</svg>",
+   "<svg viewBox=\"0 0 400 280\" style=\"width:100%;height:100%\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" role=\"img\" aria-label=\"Conversation bubbles between a visitor and an AI agent\">\n<rect x=\"36\" y=\"38\" width=\"196\" height=\"62\" rx=\"16\"/><path d=\"M60 62h120M60 78h80\" stroke-opacity=\".5\"/>\n<rect x=\"168\" y=\"118\" width=\"196\" height=\"62\" rx=\"16\" fill=\"rgba(61,220,255,.15)\"/><path d=\"M192 142h130M192 158h90\" stroke-opacity=\".6\"/>\n<rect x=\"36\" y=\"198\" width=\"120\" height=\"44\" rx=\"16\"/><circle cx=\"76\" cy=\"220\" r=\"4\" fill=\"currentColor\" class=\"pulse\"/><circle cx=\"96\" cy=\"220\" r=\"4\" fill=\"currentColor\" class=\"pulse\" style=\"animation-delay:.4s\"/><circle cx=\"116\" cy=\"220\" r=\"4\" fill=\"currentColor\" class=\"pulse\" style=\"animation-delay:.8s\"/>\n</svg>",
+   "<svg viewBox=\"0 0 400 280\" style=\"width:100%;height:100%\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" role=\"img\" aria-label=\"Abstract dashboard with bars and a trend line\">\n<rect x=\"30\" y=\"30\" width=\"340\" height=\"220\" rx=\"14\" stroke-opacity=\".5\"/>\n<rect x=\"62\" y=\"170\" width=\"28\" height=\"52\" rx=\"4\" fill=\"rgba(77,124,255,.3)\"/><rect x=\"106\" y=\"146\" width=\"28\" height=\"76\" rx=\"4\" fill=\"rgba(77,124,255,.3)\"/><rect x=\"150\" y=\"158\" width=\"28\" height=\"64\" rx=\"4\" fill=\"rgba(77,124,255,.3)\"/><rect x=\"194\" y=\"118\" width=\"28\" height=\"104\" rx=\"4\" fill=\"rgba(77,124,255,.3)\"/><rect x=\"238\" y=\"98\" width=\"28\" height=\"124\" rx=\"4\" fill=\"rgba(77,124,255,.3)\"/><rect x=\"282\" y=\"78\" width=\"28\" height=\"144\" rx=\"4\" fill=\"rgba(77,124,255,.3)\"/>\n<path d=\"M62 150L120 124L164 136L208 92L252 74L296 52\" stroke-width=\"2.2\" class=\"stream\"/><circle cx=\"296\" cy=\"52\" r=\"5\" fill=\"currentColor\" class=\"pulse\"/>\n</svg>",
+   "<svg viewBox=\"0 0 400 280\" style=\"width:100%;height:100%\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" role=\"img\" aria-label=\"Layered neural network\">\n<path d=\"M70 90L160 50M70 90L160 110M70 90L160 170M70 90L160 230M70 140L160 50M70 140L160 110M70 140L160 170M70 140L160 230M70 190L160 50M70 190L160 110M70 190L160 170M70 190L160 230\" stroke-opacity=\".25\"/>\n<path d=\"M160 50L250 80M160 50L250 140M160 50L250 200M160 110L250 80M160 110L250 140M160 110L250 200M160 170L250 80M160 170L250 140M160 170L250 200M160 230L250 80M160 230L250 140M160 230L250 200\" stroke-opacity=\".25\"/>\n<path d=\"M250 80L335 110M250 80L335 170M250 140L335 110M250 140L335 170M250 200L335 110M250 200L335 170\" stroke-opacity=\".35\"/>\n<g fill=\"#05070D\"><circle cx=\"70\" cy=\"90\" r=\"9\"/><circle cx=\"70\" cy=\"140\" r=\"9\"/><circle cx=\"70\" cy=\"190\" r=\"9\"/><circle cx=\"160\" cy=\"50\" r=\"9\"/><circle cx=\"160\" cy=\"110\" r=\"9\"/><circle cx=\"160\" cy=\"170\" r=\"9\"/><circle cx=\"160\" cy=\"230\" r=\"9\"/><circle cx=\"250\" cy=\"80\" r=\"9\"/><circle cx=\"250\" cy=\"140\" r=\"9\"/><circle cx=\"250\" cy=\"200\" r=\"9\"/><circle cx=\"335\" cy=\"110\" r=\"9\"/><circle cx=\"335\" cy=\"170\" r=\"9\"/></g>\n<circle cx=\"335\" cy=\"110\" r=\"4\" fill=\"currentColor\" class=\"pulse\"/><circle cx=\"335\" cy=\"170\" r=\"4\" fill=\"currentColor\" class=\"pulse\" style=\"animation-delay:.6s\"/><circle cx=\"160\" cy=\"110\" r=\"4\" fill=\"currentColor\" class=\"pulse\" style=\"animation-delay:1.2s\"/><circle cx=\"70\" cy=\"140\" r=\"4\" fill=\"currentColor\" class=\"pulse\" style=\"animation-delay:1.8s\"/>\n</svg>",
+   "<svg viewBox=\"0 0 400 280\" style=\"width:100%;height:100%\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" role=\"img\" aria-label=\"Central hub connected to surrounding sensors\">\n<circle cx=\"200\" cy=\"140\" r=\"52\" stroke-opacity=\".4\" stroke-dasharray=\"3 6\" class=\"stream\"/><circle cx=\"200\" cy=\"140\" r=\"104\" stroke-opacity=\".25\" stroke-dasharray=\"3 8\" class=\"stream\"/>\n<path d=\"M200 140L304 140M200 140L252 230M200 140L148 230M200 140L96 140M200 140L148 50M200 140L252 50\" stroke-opacity=\".45\"/>\n<circle cx=\"200\" cy=\"140\" r=\"20\" fill=\"rgba(61,220,255,.25)\" class=\"pulse\"/><circle cx=\"200\" cy=\"140\" r=\"7\" fill=\"currentColor\" stroke=\"none\"/>\n<g fill=\"#05070D\"><rect x=\"294\" y=\"130\" width=\"20\" height=\"20\" rx=\"5\"/><rect x=\"242\" y=\"220\" width=\"20\" height=\"20\" rx=\"5\"/><rect x=\"138\" y=\"220\" width=\"20\" height=\"20\" rx=\"5\"/><rect x=\"86\" y=\"130\" width=\"20\" height=\"20\" rx=\"5\"/><rect x=\"138\" y=\"40\" width=\"20\" height=\"20\" rx=\"5\"/><rect x=\"242\" y=\"40\" width=\"20\" height=\"20\" rx=\"5\"/></g>\n<circle cx=\"304\" cy=\"140\" r=\"3\" fill=\"currentColor\" class=\"pulse\"/><circle cx=\"148\" cy=\"50\" r=\"3\" fill=\"currentColor\" class=\"pulse\" style=\"animation-delay:.9s\"/><circle cx=\"148\" cy=\"230\" r=\"3\" fill=\"currentColor\" class=\"pulse\" style=\"animation-delay:1.8s\"/>\n</svg>"
+  ]
+ }
+}

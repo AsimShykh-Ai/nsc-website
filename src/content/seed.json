@@ -1,0 +1,981 @@
+[
+ {
+  "slug": "home",
+  "kind": "home",
+  "seo_title": "AI Consulting for Small Business | Neural Shades Creations",
+  "seo_description": "Neural Shades Creations helps US small businesses automate work with AI consulting, chatbots, dashboards and workflow automation. Book a free consultation.",
+  "h1": "Intelligence Engineered. Businesses Transformed.",
+  "lead": "We engineer intelligent business ecosystems through AI automation, advanced machine learning, intelligent agents, and next-generation digital infrastructure.",
+  "body": [
+   {
+    "type": "definition",
+    "h2": "What is AI consulting for small business?",
+    "text": "AI consulting helps a small business work out where artificial intelligence genuinely pays off, what to build first, and how to put it to work: automated follow-ups, chatbots that answer customers, dashboards that report for you. Neural Shades Creations designs and builds these as one connected system."
+   },
+   {
+    "type": "cards",
+    "h2": "All services at a glance.",
+    "items": [
+     {
+      "title": "AI Business Automation",
+      "text": "Workflows, CRM and follow-ups that run themselves.",
+      "href": "/services/ai-business-automation"
+     },
+     {
+      "title": "AI Social Media Automation",
+      "text": "Content planned, created and published across platforms.",
+      "href": "/services/ai-social-media-automation"
+     },
+     {
+      "title": "Custom AI Chatbots and Agents",
+      "text": "Always-on assistants that answer, qualify and book.",
+      "href": "/services/ai-chatbots-agents"
+     },
+     {
+      "title": "AI Receptionist",
+      "text": "Calls, texts and chats answered 24/7, with bookings and handoff.",
+      "href": "/services/ai-receptionist"
+     },
+     {
+      "title": "AI-Powered Business Dashboards",
+      "text": "One live view of the whole business, with reports that write themselves.",
+      "href": "/services/ai-business-dashboards"
+     },
+     {
+      "title": "Artificial Intelligence and Machine Learning",
+      "text": "Practical AI consultancy, prediction and generative solutions.",
+      "href": "/services/ai-machine-learning"
+     },
+     {
+      "title": "IoT and Smart Technology",
+      "text": "Connected devices and monitoring feeding the same intelligence.",
+      "href": "/services/iot-smart-technology"
+     }
+    ]
+   },
+   {
+    "type": "faq",
+    "h2": "Questions owners ask",
+    "items": [
+     {
+      "q": "What does an AI consultant do?",
+      "a": "An AI consultant studies how your business runs, finds the tasks AI can safely take over, recommends what to build first, and helps implement and maintain it. The aim is saved time and better customer response, not technology for its own sake."
+     },
+     {
+      "q": "How can AI automate my small business?",
+      "a": "AI can capture and score leads, send follow-ups, update your CRM, schedule appointments, answer common questions and produce reports. These run as connected workflows, with a person stepping in when judgment is needed."
+     },
+     {
+      "q": "How much does AI consulting cost?",
+      "a": "It depends on scope, the systems you already use and how much is custom. [PLACEHOLDER: add your real pricing model and ranges.] The free consultation maps your first opportunities so you can see what a project would involve."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "solutions",
+  "kind": "page",
+  "seo_title": "AI Automation Agency for Small Business | Neural Shades",
+  "seo_description": "Six AI solution areas for small businesses: workflow automation, chatbots, social media AI, dashboards, machine learning and IoT. See how they connect.",
+  "h1": "AI automation solutions that work as one system.",
+  "lead": "Neural Shades Creations is an AI automation agency for small and medium-sized businesses. Explore the six disciplines we engineer, then see how they connect.",
+  "body": [
+   {
+    "type": "definition",
+    "h2": "What can AI automate in a small business?",
+    "text": "Common starting points are lead follow-up, appointment scheduling, invoicing reminders, content publishing, answers to customer questions, reporting and equipment monitoring. We start with the task that costs you the most time each week and connect the rest from there."
+   },
+   {
+    "type": "definition",
+    "h2": "How do the pieces work together?",
+    "text": "Each discipline is useful alone, but the real gain comes from connecting them. Automation moves information between your tools, chatbots and an AI receptionist capture customer enquiries, a dashboard shows what is happening, machine learning looks for patterns, and IoT feeds in what happens on the ground. We design them as one system so data flows once and is reused, instead of living in five disconnected apps. Most clients start with one discipline and add others as the first pays back."
+   },
+   {
+    "type": "cards",
+    "h2": "All services at a glance.",
+    "items": [
+     {
+      "title": "AI Business Automation",
+      "text": "Workflows, CRM and follow-ups that run themselves.",
+      "href": "/services/ai-business-automation"
+     },
+     {
+      "title": "AI Social Media Automation",
+      "text": "Content planned, created and published across platforms.",
+      "href": "/services/ai-social-media-automation"
+     },
+     {
+      "title": "Custom AI Chatbots and Agents",
+      "text": "Always-on assistants that answer, qualify and book.",
+      "href": "/services/ai-chatbots-agents"
+     },
+     {
+      "title": "AI Receptionist",
+      "text": "Calls, texts and chats answered 24/7, with bookings and handoff.",
+      "href": "/services/ai-receptionist"
+     },
+     {
+      "title": "AI-Powered Business Dashboards",
+      "text": "One live view of the whole business, with reports that write themselves.",
+      "href": "/services/ai-business-dashboards"
+     },
+     {
+      "title": "Artificial Intelligence and Machine Learning",
+      "text": "Practical AI consultancy, prediction and generative solutions.",
+      "href": "/services/ai-machine-learning"
+     },
+     {
+      "title": "IoT and Smart Technology",
+      "text": "Connected devices and monitoring feeding the same intelligence.",
+      "href": "/services/iot-smart-technology"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "services",
+  "kind": "page",
+  "seo_title": "AI Consulting Services for Small Business | Neural Shades",
+  "seo_description": "AI consulting and implementation services: process automation, chatbots, social media automation, dashboards, machine learning and IoT consulting.",
+  "h1": "AI consulting services for small and medium-sized businesses.",
+  "lead": "From business process automation to custom AI chatbots, dashboards, machine learning and IoT. Choose a service to see exactly what we build and how it helps.",
+  "body": [
+   {
+    "type": "definition",
+    "h2": "What is AI consulting for small business?",
+    "text": "AI consulting helps a small business work out where artificial intelligence genuinely pays off, what to build first, and how to put it to work: automated follow-ups, chatbots that answer customers, dashboards that report for you. Neural Shades Creations designs and builds these as one connected system."
+   },
+   {
+    "type": "cards",
+    "h2": "Choose a service to explore.",
+    "items": [
+     {
+      "title": "AI Business Automation",
+      "text": "Workflows, CRM and follow-ups that run themselves.",
+      "href": "/services/ai-business-automation"
+     },
+     {
+      "title": "AI Social Media Automation",
+      "text": "Content planned, created and published across platforms.",
+      "href": "/services/ai-social-media-automation"
+     },
+     {
+      "title": "Custom AI Chatbots and Agents",
+      "text": "Always-on assistants that answer, qualify and book.",
+      "href": "/services/ai-chatbots-agents"
+     },
+     {
+      "title": "AI Receptionist",
+      "text": "Calls, texts and chats answered 24/7, with bookings and handoff.",
+      "href": "/services/ai-receptionist"
+     },
+     {
+      "title": "AI-Powered Business Dashboards",
+      "text": "One live view of the whole business, with reports that write themselves.",
+      "href": "/services/ai-business-dashboards"
+     },
+     {
+      "title": "Artificial Intelligence and Machine Learning",
+      "text": "Practical AI consultancy, prediction and generative solutions.",
+      "href": "/services/ai-machine-learning"
+     },
+     {
+      "title": "IoT and Smart Technology",
+      "text": "Connected devices and monitoring feeding the same intelligence.",
+      "href": "/services/iot-smart-technology"
+     }
+    ]
+   },
+   {
+    "type": "faq",
+    "h2": "Questions owners ask",
+    "items": [
+     {
+      "q": "What does an AI consultant do?",
+      "a": "An AI consultant studies how your business runs, finds the tasks AI can safely take over, recommends what to build first, and helps implement and maintain it. The aim is saved time and better customer response, not technology for its own sake."
+     },
+     {
+      "q": "How can AI automate my small business?",
+      "a": "AI can capture and score leads, send follow-ups, update your CRM, schedule appointments, answer common questions and produce reports. These run as connected workflows, with a person stepping in when judgment is needed."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "industries",
+  "kind": "page",
+  "seo_title": "AI for Small Business by Industry | Neural Shades",
+  "seo_description": "How AI automation, chatbots and dashboards help e-commerce, real estate, healthcare businesses, hospitality, retail, agencies and local services.",
+  "h1": "AI for small business, built for your industry.",
+  "lead": "From e-commerce and real estate to healthcare practices, restaurants and local services. See where intelligent systems save time and win customers in your line of work.",
+  "body": [
+   {
+    "type": "definition",
+    "h2": "Where should a small business start with AI?",
+    "text": "The right starting point depends on where time or leads are lost today. A restaurant may lose calls during service, a real estate team may lose leads that wait overnight for a reply, and an e-commerce store may spend hours on repetitive support questions. We look for the one task with the clearest payback, automate that first, and expand once it works. Below are the types of business we work with and typical places to begin; every engagement is scoped to your own situation. Our AI automation and chatbots are the most common first step."
+   },
+   {
+    "type": "cards",
+    "h2": "Industries we serve",
+    "items": [
+     {
+      "title": "E-commerce",
+      "text": "Follow-ups, shopping assistants and demand insight.",
+      "href": "/contact"
+     },
+     {
+      "title": "Real Estate",
+      "text": "Instant lead qualification and listing content.",
+      "href": "/contact"
+     },
+     {
+      "title": "Healthcare businesses",
+      "text": "Non-clinical admin, reminders and visibility. Compliance scoped in discovery.",
+      "href": "/contact"
+     },
+     {
+      "title": "Professional services",
+      "text": "Intake, document routing and knowledge-base assistants.",
+      "href": "/contact"
+     },
+     {
+      "title": "Restaurants and hospitality",
+      "text": "Enquiries, social content and equipment monitoring.",
+      "href": "/contact"
+     },
+     {
+      "title": "Retail",
+      "text": "Inventory insight, customer assistants and store sensors.",
+      "href": "/contact"
+     },
+     {
+      "title": "Marketing agencies",
+      "text": "Scaled content and self-assembling client reports.",
+      "href": "/contact"
+     },
+     {
+      "title": "Local service businesses",
+      "text": "Missed-call recovery, quote follow-ups and review requests.",
+      "href": "/contact"
+     }
+    ]
+   },
+   {
+    "type": "faq",
+    "h2": "Common questions.",
+    "items": [
+     {
+      "q": "Do you only work with specific industries?",
+      "a": "No. These are common examples. If your business has repeat tasks, customer enquiries or data you do not use, we can look at it in a free consultation."
+     },
+     {
+      "q": "Can AI be used in a regulated business?",
+      "a": "Often yes, for non-sensitive tasks such as scheduling and general enquiries. Anything involving regulated data is scoped carefully in discovery, with your own compliance adviser involved."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "about",
+  "kind": "page",
+  "seo_title": "About Us: AI Consulting Firm | Neural Shades Creations",
+  "seo_description": "Neural Shades Creations is an AI consulting firm for US small and medium-sized businesses. Meet the team and our approach.",
+  "h1": "An AI consultancy for businesses that want to grow smarter.",
+  "lead": "Neural Shades Creations is a technology consultancy focused on practical, business-first AI for small and medium-sized businesses across the United States.",
+  "body": [
+   {
+    "type": "definition",
+    "h2": "Our mission",
+    "text": "To help small and medium-sized businesses use artificial intelligence, intelligent automation and emerging technologies to transform operations, improve productivity, enhance customer experience and scale."
+   },
+   {
+    "type": "bullets",
+    "h2": "Why Neural Shades Creations",
+    "items": [
+     "Tailored AI implementations built around your workflows",
+     "Practical, business-focused solutions tied to a concrete outcome",
+     "End-to-end automation with no gaps for work to fall through",
+     "Scalable infrastructure you can grow on",
+     "Personalized AI consultancy in plain language",
+     "Continuous optimization after launch",
+     "Integrated systems that share data"
+    ]
+   },
+   {
+    "type": "bullets",
+    "h2": "How we work",
+    "items": [
+     "We start with your business problem, not with a tool",
+     "We recommend the simplest solution that works, including saying no to AI where it does not help",
+     "We explain what we build in plain language and document it for your team",
+     "We agree measures of success before building and review them after launch",
+     "We connect new work to your existing tools wherever possible"
+    ]
+   },
+   {
+    "type": "definition",
+    "h2": "What to expect when you contact us",
+    "text": "You book a free consultation, we ask about your business and where time or leads are lost, and we tell you honestly whether AI automation, chatbots or another approach fits. If it does, you receive a written proposal with scope and cost before any work starts. If it does not, we will say so. [PLACEHOLDER: founder background and credentials to be added by the owner.]"
+   }
+  ]
+ },
+ {
+  "slug": "contact",
+  "kind": "page",
+  "seo_title": "Book a Free AI Consultation | Neural Shades Creations",
+  "seo_description": "Book a free AI consultation with Neural Shades Creations. Tell us about your business and we'll reply by email within one business day.",
+  "h1": "Your Business Deserves More Than Traditional Technology.",
+  "lead": "Let's engineer a smarter, faster, and more intelligent future for your business.",
+  "body": []
+ },
+ {
+  "slug": "blog",
+  "kind": "page",
+  "seo_title": "AI Blog for Small Business | Neural Shades Creations",
+  "seo_description": "Practical articles on AI, automation and chatbots for small businesses, plus opinion on Claude and the future of intelligent technology.",
+  "h1": "Insights on AI, automation and the future of small business.",
+  "lead": "Practical guidance and honest opinion on artificial intelligence, including Claude, from the team at Neural Shades Creations.",
+  "body": []
+ },
+ {
+  "slug": "services/ai-business-automation",
+  "kind": "service",
+  "seo_title": "Business Process Automation Services | Neural Shades",
+  "seo_description": "Automate lead follow-up, admin and reporting with AI workflows built around your team. Business process automation for US small businesses.",
+  "h1": "Business process automation, engineered for your team.",
+  "lead": "We map the work your team repeats every week and replace it with intelligent workflows: leads captured and routed, follow-ups sent on time, records updated, and hand-offs to people only when judgment is needed.",
+  "body": [
+   {
+    "type": "definition",
+    "h2": "What is business process automation?",
+    "text": "Business process automation uses software, and increasingly AI, to run repeatable tasks without manual effort, such as lead follow-up, data entry, approvals, reminders and reporting. For a small business it means fewer dropped balls and more time for customers."
+   },
+   {
+    "type": "bullets",
+    "h2": "What we build",
+    "items": [
+     "End-to-end business process automation",
+     "Intelligent workflow development",
+     "Automated administrative operations",
+     "CRM automation and integrations",
+     "Lead generation and lead management",
+     "Automated customer follow-ups",
+     "AI-powered operational systems"
+    ]
+   },
+   {
+    "type": "cards",
+    "h2": "What this means for your business.",
+    "items": [
+     {
+      "title": "Hours back",
+      "text": "Repetitive admin moves to systems that never forget, so your team spends time on customers."
+     },
+     {
+      "title": "Fewer dropped leads",
+      "text": "Every enquiry is captured, scored and followed up automatically."
+     },
+     {
+      "title": "Clean, connected data",
+      "text": "CRM and tools stay in sync without double entry."
+     }
+    ]
+   },
+   {
+    "type": "definition",
+    "h2": "Who is this for?",
+    "text": "Owner-run and growing businesses where the same admin work repeats every day: quotes, scheduling, invoice reminders, lead follow-up and data entry between tools. If your team spends hours copying information from one system to another, this is usually the best place to start, and it often connects to AI chatbots that handle the first customer contact."
+   },
+   {
+    "type": "cards",
+    "h2": "How we deliver it.",
+    "items": [
+     {
+      "title": "01 Discover",
+      "text": "We map how work really moves through your business and list the tasks that cost the most hours each week."
+     },
+     {
+      "title": "02 Strategize",
+      "text": "We choose the first automation with a clear payback, agree how success is measured, and decide where a person still approves."
+     },
+     {
+      "title": "03 Engineer",
+      "text": "We build and connect it to your CRM, email, calendar and accounting tools, with testing on real examples before it goes live."
+     },
+     {
+      "title": "04 Optimize",
+      "text": "We watch it run, fix edge cases, report the hours saved in a dashboard, and extend to the next workflow."
+     }
+    ]
+   },
+   {
+    "type": "faq",
+    "h2": "Common questions.",
+    "items": [
+     {
+      "q": "What is business process automation?",
+      "a": "It means using software and AI to run repeatable tasks, such as lead follow-up, data entry and reporting, without manual effort."
+     },
+     {
+      "q": "Which processes should a small business automate first?",
+      "a": "Usually the ones that repeat daily and cause delays when someone is busy: lead follow-up, appointment scheduling and invoicing reminders. We confirm priorities in discovery."
+     }
+    ]
+   }
+  ],
+  "service_name": "AI Business Automation"
+ },
+ {
+  "slug": "services/ai-social-media-automation",
+  "kind": "service",
+  "seo_title": "AI Social Media Automation Services | Neural Shades",
+  "seo_description": "AI-powered content planning, graphics, captions, CGI video and publishing across platforms for small businesses. Keep every channel active.",
+  "h1": "AI social media automation that keeps every channel active.",
+  "lead": "Plan, create and publish on-brand content across platforms with AI-generated graphics, captions, promotional video and ad creatives, managed in one steady rhythm instead of last-minute scrambles.",
+  "body": [
+   {
+    "type": "definition",
+    "h2": "What is AI social media automation?",
+    "text": "AI social media automation uses AI to plan, create and publish content across your platforms on a schedule you approve. It covers captions, graphics and short video, so your channels stay active without someone starting from a blank page each week."
+   },
+   {
+    "type": "bullets",
+    "h2": "What we build",
+    "items": [
+     "AI-powered social media management",
+     "Automated content planning and publishing",
+     "AI-generated graphics, captions and copy",
+     "CGI promotional video creation",
+     "AI-generated advertising creatives",
+     "Multi-platform content automation"
+    ]
+   },
+   {
+    "type": "cards",
+    "h2": "What this means for your business.",
+    "items": [
+     {
+      "title": "Consistent presence",
+      "text": "Content goes out on schedule across every platform you use."
+     },
+     {
+      "title": "Faster creative",
+      "text": "AI-assisted graphics, copy and short CGI video produced in a fraction of the usual time."
+     },
+     {
+      "title": "Learning loop",
+      "text": "Engagement results feed back into what gets created next."
+     }
+    ]
+   },
+   {
+    "type": "definition",
+    "h2": "Who is this for?",
+    "text": "Small businesses and marketing agencies that know consistent posting matters but cannot spare the hours. It suits teams that already have a brand voice and want it applied across platforms without writing every caption by hand. Results are reviewed in a dashboard so you can see what content earns attention."
+   },
+   {
+    "type": "cards",
+    "h2": "How we deliver it.",
+    "items": [
+     {
+      "title": "01 Discover",
+      "text": "We review your brand, audience, current channels and the content that already works."
+     },
+     {
+      "title": "02 Strategize",
+      "text": "We set a content plan, approval flow and posting schedule that fits your capacity."
+     },
+     {
+      "title": "03 Engineer",
+      "text": "We build the generation, review and publishing workflow, with your approval before anything goes live if you want it."
+     },
+     {
+      "title": "04 Optimize",
+      "text": "We study what performs, refine prompts and formats, and scale the automation across more channels."
+     }
+    ]
+   },
+   {
+    "type": "faq",
+    "h2": "Common questions.",
+    "items": [
+     {
+      "q": "Is AI-generated content on-brand?",
+      "a": "We configure the system with your voice, visuals and approval steps, so you review what matters before it goes live."
+     },
+     {
+      "q": "Which platforms can you automate?",
+      "a": "We scope this per business; common choices are Instagram, Facebook, LinkedIn, X and TikTok. Platform availability is confirmed in discovery."
+     }
+    ]
+   }
+  ],
+  "service_name": "AI Social Media Automation"
+ },
+ {
+  "slug": "services/ai-chatbots-agents",
+  "kind": "service",
+  "seo_title": "AI Chatbot Development for Business | Neural Shades",
+  "seo_description": "Custom AI chatbots and virtual assistants trained on your content. Answer customers, qualify leads and book appointments 24/7.",
+  "h1": "Custom AI chatbots and agents that answer, qualify and book.",
+  "lead": "Train an assistant on your own services, pricing rules and policies. It answers visitors around the clock, qualifies leads, supports customers and hands the conversation to your team at the right moment.",
+  "body": [
+   {
+    "type": "definition",
+    "h2": "What is an AI chatbot for business?",
+    "text": "An AI chatbot for business is an assistant trained on your own information. It answers visitors at any hour, collects contact details and books appointments, then hands complex cases to your team."
+   },
+   {
+    "type": "bullets",
+    "h2": "What we build",
+    "items": [
+     "Intelligent website chatbots",
+     "AI customer service representatives",
+     "AI-powered sales assistants",
+     "Lead qualification agents",
+     "Custom-trained knowledge-base chatbots",
+     "Conversational AI integrations",
+     "24/7 automated customer engagement"
+    ]
+   },
+   {
+    "type": "cards",
+    "h2": "What this means for your business.",
+    "items": [
+     {
+      "title": "Instant answers",
+      "text": "Visitors get accurate responses at any hour instead of waiting for an email."
+     },
+     {
+      "title": "Qualified leads",
+      "text": "Agents ask the right questions and pass structured results to your CRM."
+     },
+     {
+      "title": "Honest by design",
+      "text": "When the assistant is unsure, it says so and routes to a person."
+     }
+    ]
+   },
+   {
+    "type": "definition",
+    "h2": "Who is this for?",
+    "text": "Businesses that get repeat questions by web chat, email or social messages and lose leads when nobody replies quickly. A chatbot answers from your own approved information, qualifies the enquiry and books the next step. For phone calls, see our AI receptionist, and connect conversations to automation so follow-ups happen on their own."
+   },
+   {
+    "type": "cards",
+    "h2": "How we deliver it.",
+    "items": [
+     {
+      "title": "01 Discover",
+      "text": "We collect the questions customers ask most and the information your team already uses to answer them."
+     },
+     {
+      "title": "02 Strategize",
+      "text": "We define what the assistant may answer, what it must hand to a person, and how leads are captured."
+     },
+     {
+      "title": "03 Engineer",
+      "text": "We train it on your approved content, connect it to your calendar and CRM, and test it with real questions."
+     },
+     {
+      "title": "04 Optimize",
+      "text": "We review unanswered questions each week, fill the gaps, and tighten the handoff rules."
+     }
+    ]
+   },
+   {
+    "type": "faq",
+    "h2": "Common questions.",
+    "items": [
+     {
+      "q": "Will the chatbot make things up?",
+      "a": "We train it on your approved knowledge base and set it to say when it does not know, rather than guess."
+     },
+     {
+      "q": "Can it collect leads?",
+      "a": "Yes. Conversations can capture contact details and send them to your CRM or inbox."
+     }
+    ]
+   }
+  ],
+  "service_name": "Custom AI Chatbots and Agents"
+ },
+ {
+  "slug": "services/ai-business-dashboards",
+  "kind": "service",
+  "seo_title": "AI-Powered Business Dashboards | Neural Shades",
+  "seo_description": "One live dashboard for sales, operations and marketing with AI insights and automatic reports. Custom business intelligence for small businesses.",
+  "h1": "AI-powered business dashboards: one clear view of everything.",
+  "lead": "Bring sales, operations, marketing and workflow health together in a single real-time dashboard, with AI-generated insights and reports that assemble themselves on schedule.",
+  "body": [
+   {
+    "type": "definition",
+    "h2": "What is an AI-powered business dashboard?",
+    "text": "An AI-powered business dashboard brings sales, operations and marketing data into one live view, adds AI-written insights, and builds your regular reports for you."
+   },
+   {
+    "type": "bullets",
+    "h2": "What we build",
+    "items": [
+     "Centralized business management dashboards",
+     "AI-powered analytics",
+     "Real-time performance monitoring",
+     "Automated reporting",
+     "Intelligent business insights",
+     "Workflow monitoring",
+     "Custom business intelligence solutions"
+    ]
+   },
+   {
+    "type": "cards",
+    "h2": "What this means for your business.",
+    "items": [
+     {
+      "title": "Decisions with context",
+      "text": "See what is happening now, not what happened last month."
+     },
+     {
+      "title": "Automatic reporting",
+      "text": "Weekly and monthly reports build and send without manual work."
+     },
+     {
+      "title": "Early warnings",
+      "text": "AI highlights unusual changes so problems surface sooner."
+     }
+    ]
+   },
+   {
+    "type": "definition",
+    "h2": "Who is this for?",
+    "text": "Owners who currently piece together performance from spreadsheets, invoices, ad accounts and booking tools. A dashboard brings the numbers you choose into one live view and sends a regular summary, so decisions rely on current data. It can also feed machine learning forecasts and readings from IoT sensors."
+   },
+   {
+    "type": "cards",
+    "h2": "How we deliver it.",
+    "items": [
+     {
+      "title": "01 Discover",
+      "text": "We list the decisions you make each week and the numbers behind them."
+     },
+     {
+      "title": "02 Strategize",
+      "text": "We select the metrics and data sources, and agree what a good week looks like."
+     },
+     {
+      "title": "03 Engineer",
+      "text": "We connect the sources, build the views and schedule automated reports to the right people."
+     },
+     {
+      "title": "04 Optimize",
+      "text": "We refine the metrics as the business changes and add alerts for what needs attention."
+     }
+    ]
+   },
+   {
+    "type": "faq",
+    "h2": "Common questions.",
+    "items": [
+     {
+      "q": "What data can a dashboard connect to?",
+      "a": "Most business tools with an export or API: CRM, accounting, e-commerce, advertising and spreadsheets. We confirm integrations during discovery."
+     },
+     {
+      "q": "Do I need technical skills to use it?",
+      "a": "No. Dashboards are designed for business owners, with plain-language summaries."
+     }
+    ]
+   }
+  ],
+  "service_name": "AI-Powered Business Dashboards"
+ },
+ {
+  "slug": "services/ai-machine-learning",
+  "kind": "service",
+  "seo_title": "AI Consulting & Machine Learning Services | Neural Shades",
+  "seo_description": "Practical AI consulting, predictive analytics and custom machine learning for small businesses. A clear roadmap before any build.",
+  "h1": "AI consulting and machine learning, grounded in business outcomes.",
+  "lead": "Practical AI consultancy for small businesses: where AI genuinely helps, what to build first, and custom machine learning, predictive analytics and generative AI solutions that fit your data and goals.",
+  "body": [
+   {
+    "type": "definition",
+    "h2": "What is AI consulting?",
+    "text": "AI consulting helps a business work out where AI genuinely pays off, what to build first and how to implement it. For a small business that means practical use cases and a clear roadmap, not experiments."
+   },
+   {
+    "type": "bullets",
+    "h2": "What we build",
+    "items": [
+     "AI consultancy",
+     "Custom AI implementations",
+     "Machine learning integrations",
+     "Predictive analytics",
+     "Generative AI solutions",
+     "Intelligent data processing",
+     "AI-powered decision-support systems"
+    ]
+   },
+   {
+    "type": "cards",
+    "h2": "What this means for your business.",
+    "items": [
+     {
+      "title": "Clarity first",
+      "text": "A realistic roadmap before any build begins, with no hype."
+     },
+     {
+      "title": "Custom, not generic",
+      "text": "Models and tools shaped around your data and workflows."
+     },
+     {
+      "title": "Prediction that helps",
+      "text": "Forecasts and scoring that support everyday decisions."
+     }
+    ]
+   },
+   {
+    "type": "definition",
+    "h2": "Who is this for?",
+    "text": "Businesses that already collect data (orders, bookings, enquiries, equipment readings) and want practical predictions or smarter decisions from it, not research projects. We begin with a clear business question and tell you plainly when a simpler method will do. Outputs usually appear in a dashboard or trigger automation."
+   },
+   {
+    "type": "cards",
+    "h2": "How we deliver it.",
+    "items": [
+     {
+      "title": "01 Discover",
+      "text": "We define the business question and check whether you have enough usable data to answer it."
+     },
+     {
+      "title": "02 Strategize",
+      "text": "We choose the simplest approach that works and agree how accuracy will be judged."
+     },
+     {
+      "title": "03 Engineer",
+      "text": "We build, validate and integrate the model into the tools your team already uses."
+     },
+     {
+      "title": "04 Optimize",
+      "text": "We monitor accuracy over time, retrain when needed, and report results in plain language."
+     }
+    ]
+   },
+   {
+    "type": "faq",
+    "h2": "Common questions.",
+    "items": [
+     {
+      "q": "Do small businesses really need machine learning?",
+      "a": "Not always. We recommend it only where it solves a clear problem, and otherwise suggest simpler automation."
+     },
+     {
+      "q": "How do you approach AI strategy?",
+      "a": "We start with your operations, identify opportunities by impact and effort, and agree a roadmap before building."
+     }
+    ]
+   }
+  ],
+  "service_name": "Artificial Intelligence and Machine Learning"
+ },
+ {
+  "slug": "services/iot-smart-technology",
+  "kind": "service",
+  "seo_title": "IoT Consulting for Business | Neural Shades",
+  "seo_description": "IoT consulting and smart technology for small business: connected sensors, live monitoring and automation that turn physical operations into data.",
+  "h1": "IoT consulting and smart technology for connected operations.",
+  "lead": "Connect equipment, spaces and sensors to your business systems so you can monitor conditions, trigger automations and feed live data into the same dashboards and models as everything else.",
+  "body": [
+   {
+    "type": "definition",
+    "h2": "What is IoT consulting?",
+    "text": "IoT consulting plans how connected devices and sensors feed data into your business systems, so you can monitor equipment and spaces and trigger actions automatically."
+   },
+   {
+    "type": "bullets",
+    "h2": "What we build",
+    "items": [
+     "IoT consulting",
+     "Connected business infrastructure",
+     "Smart device integrations",
+     "Intelligent monitoring systems",
+     "IoT-powered automation",
+     "Connected operational ecosystems"
+    ]
+   },
+   {
+    "type": "cards",
+    "h2": "What this means for your business.",
+    "items": [
+     {
+      "title": "Live visibility",
+      "text": "Know the state of equipment and spaces without walking the floor."
+     },
+     {
+      "title": "Automatic response",
+      "text": "Sensors can trigger alerts and tasks the moment something changes."
+     },
+     {
+      "title": "One ecosystem",
+      "text": "Device data joins your dashboards and AI instead of living in a silo."
+     }
+    ]
+   },
+   {
+    "type": "definition",
+    "h2": "Who is this for?",
+    "text": "Businesses with physical operations: equipment, stock, premises or vehicles that benefit from live monitoring. Sensors and connected devices feed data into a dashboard, and rules can trigger alerts or automation when something changes. Machine learning can later spot patterns that predict problems early."
+   },
+   {
+    "type": "cards",
+    "h2": "How we deliver it.",
+    "items": [
+     {
+      "title": "01 Discover",
+      "text": "We survey your premises, equipment and the events that cost you money when missed."
+     },
+     {
+      "title": "02 Strategize",
+      "text": "We select devices and connectivity that fit your budget, environment and security needs."
+     },
+     {
+      "title": "03 Engineer",
+      "text": "We install, connect and test the devices, and route their data to alerts and reports."
+     },
+     {
+      "title": "04 Optimize",
+      "text": "We tune thresholds to reduce false alarms and expand coverage where it pays off."
+     }
+    ]
+   },
+   {
+    "type": "faq",
+    "h2": "Common questions.",
+    "items": [
+     {
+      "q": "What kinds of devices can you integrate?",
+      "a": "Common business sensors, smart devices and equipment monitors. Compatibility is assessed in discovery."
+     },
+     {
+      "q": "Is IoT only for large companies?",
+      "a": "No. Small, targeted deployments, such as monitoring one critical asset, are often the best starting point."
+     }
+    ]
+   }
+  ],
+  "service_name": "IoT and Smart Technology"
+ },
+ {
+  "slug": "services/ai-receptionist",
+  "kind": "service",
+  "service_name": "AI Receptionist",
+  "seo_title": "AI Receptionist for Small Business | Neural Shades",
+  "seo_description": "An AI receptionist answers calls, texts and web chats, books appointments and captures leads 24/7, then hands urgent requests to your team.",
+  "h1": "An AI receptionist that never misses a call or a lead.",
+  "lead": "Answer every call, text and web enquiry in your own voice, book the appointment, capture the lead, and pass anything urgent to a person on your team.",
+  "body": [
+   {
+    "type": "definition",
+    "h2": "What is an AI receptionist?",
+    "text": "An AI receptionist is software that answers calls, texts and website chats for a business. It handles common questions, collects the customer's details, books appointments and passes urgent or complex requests to a person. Because it works around the clock, enquiries that arrive after hours or while your team is busy are not lost."
+   },
+   {
+    "type": "bullets",
+    "h2": "What we build",
+    "items": [
+     "Call and chat answering in your brand's voice",
+     "Appointment booking connected to your calendar",
+     "Lead capture and qualification saved to your CRM",
+     "Human handoff for urgent, sensitive or complex requests",
+     "After-hours and overflow coverage",
+     "Call summaries sent to your team so nothing is re-asked"
+    ]
+   },
+   {
+    "type": "cards",
+    "h2": "What this means for your business.",
+    "items": [
+     {
+      "title": "Fewer missed enquiries",
+      "text": "Every call and message gets an immediate response, including nights, weekends and busy periods."
+     },
+     {
+      "title": "Staff time back",
+      "text": "Routine questions and scheduling are handled automatically, so your team focuses on customers in front of them."
+     },
+     {
+      "title": "Consistent answers",
+      "text": "The assistant uses the information you approve, so customers hear the same accurate answers every time."
+     }
+    ]
+   },
+   {
+    "type": "definition",
+    "h2": "Who is this for?",
+    "text": "Home and local service businesses, real estate teams, professional practices, salons and restaurants where calls go unanswered during busy hours or after closing. Where web chat matters more than calls, our chatbots cover that channel, and bookings can trigger automation across your other tools."
+   },
+   {
+    "type": "cards",
+    "h2": "How we deliver it.",
+    "items": [
+     {
+      "title": "01 Discover",
+      "text": "We review your call and message patterns, opening hours and the questions people ask most."
+     },
+     {
+      "title": "02 Strategize",
+      "text": "We define what the receptionist can answer and book, and when it hands over to a person."
+     },
+     {
+      "title": "03 Engineer",
+      "text": "We set it up in your brand voice, connect your calendar and CRM, and test with realistic scenarios."
+     },
+     {
+      "title": "04 Optimize",
+      "text": "We review call summaries, refine the wording, and adjust handoff rules as you learn what callers need."
+     }
+    ]
+   },
+   {
+    "type": "bullets",
+    "h2": "AI receptionist for your industry.",
+    "items": [
+     "HVAC, plumbing and electrical: capture emergency and quote calls after hours",
+     "Real estate: respond to buyer and seller enquiries immediately and book viewings",
+     "Law and accounting practices: handle intake questions and book consultations",
+     "Salons and studios: answer availability questions and fill the diary",
+     "Restaurants: take booking and opening-hours enquiries during service",
+     "Dental and medical offices (non-clinical admin only): reminders and scheduling, with compliance scoped first"
+    ]
+   },
+   {
+    "type": "faq",
+    "h2": "Common questions.",
+    "items": [
+     {
+      "q": "Will an AI receptionist sound robotic?",
+      "a": "Modern voice AI is conversational, but it is not perfect. We test it against your real call scenarios, tune the wording to your brand, and set clear rules for handing the conversation to a person."
+     },
+     {
+      "q": "Does it replace my front-desk staff?",
+      "a": "No. It handles routine questions, scheduling and lead capture, and hands off anything urgent or complex. Most small businesses use it to cover busy periods and after hours."
+     },
+     {
+      "q": "How much does an AI receptionist cost?",
+      "a": "It depends on call volume, whether you need voice, chat or both, and the systems it connects to. Usage fees from third-party providers may apply. We scope and quote it in a free consultation."
+     },
+     {
+      "q": "Is it legal to record or transcribe calls?",
+      "a": "Recording and consent rules vary by US state. We configure disclosures and settings for your state, and recommend you confirm requirements with your own legal adviser."
+     },
+     {
+      "q": "Which businesses use an AI receptionist?",
+      "a": "Home and local service businesses, real estate teams, law and accounting practices, salons, restaurants and the non-clinical admin side of healthcare practices. Compliance needs are scoped in discovery."
+     }
+    ]
+   }
+  ]
+ }
+]
