@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${inter.variable} ${grotesk.variable} ${mono.variable}`}>
-      <body><SiteShell>{children}</SiteShell></body>
+      <body><script async src="/ga.js" /><SiteShell>{children}</SiteShell></body>
     </html>
   );
 }
