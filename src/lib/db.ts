@@ -25,7 +25,7 @@ export function allPages() { return rows; }
 
 // Edit these three lines with your real details before going live.
 const SETTINGS: Record<string, string> = {
-  contact_email: 'neoaivers95@gmail.com',  contact_phone: '',                    // optional
+  contact_email: 'neoaiverse95@gmail.com',  contact_phone: '+92 330 0033416',                    // optional
   social_linkedin: '', social_x: '', social_youtube: '',
 };
 export function getSetting(key: string, fallback = '') { return SETTINGS[key] ?? fallback; }
