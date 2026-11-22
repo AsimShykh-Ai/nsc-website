@@ -4,7 +4,7 @@ import { getSetting } from '@/lib/db';
 
 export default function Footer() {
   const email = getSetting('contact_email'), phone = getSetting('contact_phone');
-  const socials = [['LinkedIn', getSetting('social_linkedin')], ['X', getSetting('social_x')], ['YouTube', getSetting('social_youtube')]].filter(([, u]) => u);
+  const socials: [string, string][] = [['Instagram', 'https://www.instagram.com/neural_shades_creations/'], ['TikTok', 'https://www.tiktok.com/@neuralshadescreations'], ['YouTube', 'https://www.youtube.com/channel/UCGqOnx0HcTWpBmEyfiXgBbw'], ['Facebook', 'https://www.facebook.com/profile.php?id=61583673880384']];
   const col = { flex: '1 1 150px', display: 'flex', flexDirection: 'column' as const, paddingLeft: 18 };
   const h = { fontSize: 11, color: '#7F8FB0', marginBottom: 12 };
   return (
