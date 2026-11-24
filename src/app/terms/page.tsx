@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-export const metadata: Metadata = { title: 'Terms and Conditions | Neural Shades Creations', robots: { index: true }, alternates: { canonical: '/terms' } };
+export const metadata: Metadata = { title: 'Terms and Conditions | Neural Shades Creations', description: 'The terms that apply when you use the Neural Shades Creations website, and how our services are agreed in writing.', robots: { index: true }, alternates: { canonical: '/terms' } };
 export default function Terms() {
   return (<article className="wrap" style={{ maxWidth: 760, padding: '90px 32px' }}>
     <h1 className="disp" style={{ fontSize: 48 }}>Terms and Conditions</h1>
