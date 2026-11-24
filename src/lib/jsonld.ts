@@ -1,3 +1,4 @@
+import { getSetting } from './db';
 import { SITE_URL, SITE_NAME } from './site';
 import type { Section } from './db';
 
@@ -8,7 +9,7 @@ export const orgLd = (email?: string, sameAs: string[] = []) => ({
       description: 'AI consultancy for small and medium-sized businesses in the United States: automation, chatbots and agents, dashboards, machine learning and IoT.',
       areaServed: { '@type': 'Country', name: 'United States' },
       ...(email && !email.includes('PLACEHOLDER') ? { email } : {}),
-      ...(sameAs.length ? { sameAs } : {}) },
+      sameAs: ['social_instagram', 'social_tiktok', 'social_youtube', 'social_facebook'].map((k) => getSetting(k)).filter(Boolean), telephone: getSetting('contact_phone') },
     { '@type': 'WebSite', '@id': `${SITE_URL}/#website`, url: SITE_URL, name: SITE_NAME, publisher: { '@id': `${SITE_URL}/#org` } },
   ],
 });
