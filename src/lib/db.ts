@@ -25,7 +25,7 @@ export function allPages() { return rows; }
 
 // Edit these three lines with your real details before going live.
 const SETTINGS: Record<string, string> = {
-  contact_email: 'neoaiverse95@gmail.com',  contact_phone: '+92 330 0033416',                    // optional
-  social_linkedin: '', social_x: '', social_youtube: '',
+  contact_email: 'neoaiverse95@gmail.com',  contact_phone: '+92 333 0033416',                    // optional
+  social_instagram: 'https://www.instagram.com/neural_shades_creations/', social_tiktok: 'https://www.tiktok.com/@neuralshadescreations', social_youtube: 'https://www.youtube.com/channel/UCGqOnx0HcTWpBmEyfiXgBbw', social_facebook: 'https://www.facebook.com/profile.php?id=61583673880384', social_linkedin: '', social_x: '',
 };
 export function getSetting(key: string, fallback = '') { return SETTINGS[key] ?? fallback; }
