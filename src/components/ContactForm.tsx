@@ -10,7 +10,7 @@ export default function ContactForm() {
     const form = e.currentTarget;
     const body = new URLSearchParams(new FormData(form) as unknown as Record<string, string>).toString();
     try {
-      const r = await fetch('/__forms.html', { method: 'POST', headers: { 'content-type': 'application/x-www-form-urlencoded' }, body });
+      const r = await fetch('https://formsubmit.co/ajax/neoaiverse95@gmail.com', { method: 'POST', headers: { 'content-type': 'application/x-www-form-urlencoded' }, body });
       if (r.ok) { setState('ok'); form.reset(); } else { setState('err'); setMsg('Something went wrong. Please email us instead.'); }
     } catch { setState('err'); setMsg('Network error. Please try again.'); }
   }
